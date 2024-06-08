@@ -68,7 +68,3 @@ While working on assigning each switch to correspond with a specific dice, we ra
 Our first attempts at showing the randomly generated numbers faced a hurdle: they were limited to the rightmost segment of the HEX display. This became problematic when the numbers extended beyond two digits, mostly due to the differences between decimal and binary representations. To tackle this, we introduced a digit counter mechanism. By deducting the base decimal value from our random number, we could figure out the necessary number of digits and adjust the display accordingly. This clever strategy allowed us to display multi-digit numbers effectively on the HEX display, significantly enhancing the system’s capability and user experience.
 
 ---
-
-### Note:
-
-Replace `path_to_*_image` with the actual paths to your images.
