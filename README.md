@@ -1,9 +1,9 @@
 # EE 306-03: Microprocessors Term Project - Report
 
 ## « DnDicer »
-- **Bogdán Itsám Dorantes-Nikolaev - 042101002**
-- **Onur Keleş - 042001049**
-- **Ömer Mert Yıldız - 042002008**
+- **Bogdán Itsám Dorantes-Nikolaev**
+- **Onur Keleş**
+- **Ömer Mert Yıldız**
 
 Department of Engineering, MEF University  
 Prof. Tuba Ayhan  
